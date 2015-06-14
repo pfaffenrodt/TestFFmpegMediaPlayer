@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FFmpegTest</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="play_stop">play / stop</string>
+</resources>
